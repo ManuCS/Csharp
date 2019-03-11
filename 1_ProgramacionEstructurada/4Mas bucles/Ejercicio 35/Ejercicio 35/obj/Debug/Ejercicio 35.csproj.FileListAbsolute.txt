@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\Ejercicio 35.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\Ejercicio 35.exe
+C:\Users\Usuario\source\repos\Ejercicio 35\Ejercicio 35\bin\Debug\Ejercicio 35.pdb
+C:\Users\Usuario\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\Ejercicio 35.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\Ejercicio 35.exe
+C:\Users\Usuario\source\repos\Ejercicio 35\Ejercicio 35\obj\Debug\Ejercicio 35.pdb

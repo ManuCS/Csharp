@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 2 Condicionales\Ejercicio 2 Condicionales\bin\Debug\Ejercicio 2 Condicionales.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 2 Condicionales\Ejercicio 2 Condicionales\bin\Debug\Ejercicio 2 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 2 Condicionales\Ejercicio 2 Condicionales\bin\Debug\Ejercicio 2 Condicionales.pdb
+C:\Users\Usuario\source\repos\Ejercicio 2 Condicionales\Ejercicio 2 Condicionales\obj\Debug\Ejercicio 2 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 2 Condicionales\Ejercicio 2 Condicionales\obj\Debug\Ejercicio 2 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 2 Condicionales\Ejercicio 2 Condicionales\obj\Debug\Ejercicio 2 Condicionales.pdb

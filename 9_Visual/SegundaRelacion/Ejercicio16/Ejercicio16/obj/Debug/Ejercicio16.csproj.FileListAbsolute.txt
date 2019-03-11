@@ -1,0 +1,20 @@
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.pdb
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.Form1.resources
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.Properties.Resources.resources
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csproj.GenerateResource.Cache
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.exe
+C:\Users\Mari Carmen\source\repos\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.pdb
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe.config
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.exe
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\bin\Debug\Ejercicio16.pdb
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csprojResolveAssemblyReference.cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.Form1.resources
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.Properties.Resources.resources
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csproj.GenerateResource.Cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.csproj.CoreCompileInputs.cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.exe
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\SegundaRelacion\Ejercicio16\Ejercicio16\obj\Debug\Ejercicio16.pdb

@@ -1,0 +1,14 @@
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\bin\Debug\StructBanco.exe.config
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\bin\Debug\StructBanco.exe
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\bin\Debug\StructBanco.pdb
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\obj\Debug\StructBanco.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\obj\Debug\StructBanco.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\obj\Debug\StructBanco.exe
+C:\Users\Mari Carmen\source\repos\StructBanco\StructBanco\obj\Debug\StructBanco.pdb
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\bin\Debug\StructBanco.exe.config
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\bin\Debug\StructBanco.exe
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\bin\Debug\StructBanco.pdb
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\obj\Debug\StructBanco.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\obj\Debug\StructBanco.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\obj\Debug\StructBanco.exe
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\StructBanco\StructBanco\obj\Debug\StructBanco.pdb

@@ -1,0 +1,7 @@
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\obj\Debug\Ejercicio 17 Funciones.csprojResolveAssemblyReference.cache
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\obj\Debug\Ejercicio 17 Funciones.csproj.CoreCompileInputs.cache
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\bin\Debug\Ejercicio 17 Funciones.exe.config
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\bin\Debug\Ejercicio 17 Funciones.exe
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\bin\Debug\Ejercicio 17 Funciones.pdb
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\obj\Debug\Ejercicio 17 Funciones.exe
+c:\users\manucs\source\repos\Ejercicio 17 Funciones\Ejercicio 17 Funciones\obj\Debug\Ejercicio 17 Funciones.pdb

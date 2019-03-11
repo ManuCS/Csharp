@@ -1,0 +1,7 @@
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\bin\Debug\Ejercicio 20 Funciones.exe.config
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\bin\Debug\Ejercicio 20 Funciones.exe
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\bin\Debug\Ejercicio 20 Funciones.pdb
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\obj\Debug\Ejercicio 20 Funciones.csprojResolveAssemblyReference.cache
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\obj\Debug\Ejercicio 20 Funciones.csproj.CoreCompileInputs.cache
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\obj\Debug\Ejercicio 20 Funciones.exe
+c:\users\manucs\source\repos\Ejercicio 20 Funciones\Ejercicio 20 Funciones\obj\Debug\Ejercicio 20 Funciones.pdb

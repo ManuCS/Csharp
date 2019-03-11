@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\bin\Debug\Ejercicio 1 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\bin\Debug\Ejercicio 1 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\bin\Debug\Ejercicio 1 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\obj\Debug\Ejercicio 1 Funciones.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\obj\Debug\Ejercicio 1 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\obj\Debug\Ejercicio 1 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 1 Funciones\Ejercicio 1 Funciones\obj\Debug\Ejercicio 1 Funciones.pdb

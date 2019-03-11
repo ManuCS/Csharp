@@ -1,0 +1,20 @@
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\bin\Debug\4Adivino.exe.config
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\bin\Debug\4Adivino.exe
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\bin\Debug\4Adivino.pdb
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\4Adivino.csprojResolveAssemblyReference.cache
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\_4Adivino.Form1.resources
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\_4Adivino.Properties.Resources.resources
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\4Adivino.csproj.GenerateResource.Cache
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\4Adivino.csproj.CoreCompileInputs.cache
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\4Adivino.exe
+c:\users\mari carmen\source\repos\4Adivino\4Adivino\obj\Debug\4Adivino.pdb
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\bin\Debug\4Adivino.exe.config
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\bin\Debug\4Adivino.exe
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\bin\Debug\4Adivino.pdb
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\4Adivino.csprojResolveAssemblyReference.cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\_4Adivino.Form1.resources
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\_4Adivino.Properties.Resources.resources
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\4Adivino.csproj.GenerateResource.Cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\4Adivino.csproj.CoreCompileInputs.cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\4Adivino.exe
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\4Adivino\4Adivino\obj\Debug\4Adivino.pdb

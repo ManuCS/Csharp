@@ -1,0 +1,7 @@
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\bin\Debug\DineroYMoneda.exe.config
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\bin\Debug\DineroYMoneda.exe
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\bin\Debug\DineroYMoneda.pdb
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\obj\Debug\DineroYMoneda.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\obj\Debug\DineroYMoneda.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\obj\Debug\DineroYMoneda.exe
+F:\DAW\Programacion\TercerTrimestre\Ejercicios\DineroYMoneda\DineroYMoneda\obj\Debug\DineroYMoneda.pdb

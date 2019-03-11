@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 23 For\Ejercicio 23 For\bin\Debug\Ejercicio 23 For.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 23 For\Ejercicio 23 For\bin\Debug\Ejercicio 23 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 23 For\Ejercicio 23 For\bin\Debug\Ejercicio 23 For.pdb
+C:\Users\Usuario\source\repos\Ejercicio 23 For\Ejercicio 23 For\obj\Debug\Ejercicio 23 For.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 23 For\Ejercicio 23 For\obj\Debug\Ejercicio 23 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 23 For\Ejercicio 23 For\obj\Debug\Ejercicio 23 For.pdb

@@ -1,0 +1,6 @@
+Numero de cuentas: 1
+
+Numero de cuenta: 1231
+Nombre propietario: manuel
+Saldo: 123
+---------------------------------------

@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\Ejercicio 12 While\Ejercicio 12 While\bin\Debug\Ejercicio 12 While.exe.config
+c:\users\usuario\source\repos\Ejercicio 12 While\Ejercicio 12 While\bin\Debug\Ejercicio 12 While.exe
+c:\users\usuario\source\repos\Ejercicio 12 While\Ejercicio 12 While\bin\Debug\Ejercicio 12 While.pdb
+c:\users\usuario\source\repos\Ejercicio 12 While\Ejercicio 12 While\obj\Debug\Ejercicio 12 While.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 12 While\Ejercicio 12 While\obj\Debug\Ejercicio 12 While.exe
+c:\users\usuario\source\repos\Ejercicio 12 While\Ejercicio 12 While\obj\Debug\Ejercicio 12 While.pdb

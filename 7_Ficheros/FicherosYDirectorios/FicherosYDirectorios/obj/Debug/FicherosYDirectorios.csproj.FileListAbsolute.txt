@@ -1,0 +1,14 @@
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\bin\Debug\FicherosYDirectorios.exe.config
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\bin\Debug\FicherosYDirectorios.exe
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\bin\Debug\FicherosYDirectorios.pdb
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.exe
+C:\Users\Mari Carmen\source\repos\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.pdb
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\bin\Debug\FicherosYDirectorios.exe.config
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\bin\Debug\FicherosYDirectorios.exe
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\bin\Debug\FicherosYDirectorios.pdb
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.exe
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosYDirectorios\FicherosYDirectorios\obj\Debug\FicherosYDirectorios.pdb

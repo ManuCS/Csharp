@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\Ejercicio 6 Funciones\Ejercicio 6 Funciones\bin\Debug\Ejercicio 6 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 6 Funciones\Ejercicio 6 Funciones\bin\Debug\Ejercicio 6 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 6 Funciones\Ejercicio 6 Funciones\bin\Debug\Ejercicio 6 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 6 Funciones\Ejercicio 6 Funciones\obj\Debug\Ejercicio 6 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 6 Funciones\Ejercicio 6 Funciones\obj\Debug\Ejercicio 6 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 6 Funciones\Ejercicio 6 Funciones\obj\Debug\Ejercicio 6 Funciones.pdb

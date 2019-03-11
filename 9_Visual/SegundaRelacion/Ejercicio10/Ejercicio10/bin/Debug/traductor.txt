@@ -1,0 +1,4 @@
+madre,mother
+perdedor,loser
+delfin,dolphin
+novia,girlfriend

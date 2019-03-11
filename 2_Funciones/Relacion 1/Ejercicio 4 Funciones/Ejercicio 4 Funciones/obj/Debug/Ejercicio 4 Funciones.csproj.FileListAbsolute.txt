@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\bin\Debug\Ejercicio 4 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\bin\Debug\Ejercicio 4 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\bin\Debug\Ejercicio 4 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\obj\Debug\Ejercicio 4 Funciones.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\obj\Debug\Ejercicio 4 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\obj\Debug\Ejercicio 4 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 4 Funciones\Ejercicio 4 Funciones\obj\Debug\Ejercicio 4 Funciones.pdb

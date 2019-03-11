@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 34 For\Ejercicio 34 For\bin\Debug\Ejercicio 34 For.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 34 For\Ejercicio 34 For\bin\Debug\Ejercicio 34 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 34 For\Ejercicio 34 For\bin\Debug\Ejercicio 34 For.pdb
+C:\Users\Usuario\source\repos\Ejercicio 34 For\Ejercicio 34 For\obj\Debug\Ejercicio 34 For.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 34 For\Ejercicio 34 For\obj\Debug\Ejercicio 34 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 34 For\Ejercicio 34 For\obj\Debug\Ejercicio 34 For.pdb

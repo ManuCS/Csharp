@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\bin\Debug\Ejercicio 3 Condicionales.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\bin\Debug\Ejercicio 3 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\bin\Debug\Ejercicio 3 Condicionales.pdb
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\obj\Debug\Ejercicio 3 Condicionales.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\obj\Debug\Ejercicio 3 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\obj\Debug\Ejercicio 3 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 3 Condicionales\Ejercicio 3 Condicionales\obj\Debug\Ejercicio 3 Condicionales.pdb

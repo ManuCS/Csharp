@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\bin\Debug\Ejercicio 3 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\bin\Debug\Ejercicio 3 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\bin\Debug\Ejercicio 3 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\obj\Debug\Ejercicio 3 Funciones.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\obj\Debug\Ejercicio 3 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\obj\Debug\Ejercicio 3 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 3 Funciones\Ejercicio 3 Funciones\obj\Debug\Ejercicio 3 Funciones.pdb

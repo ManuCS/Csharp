@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\bin\Debug\Ejercicio 24 For.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\bin\Debug\Ejercicio 24 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\bin\Debug\Ejercicio 24 For.pdb
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\obj\Debug\Ejercicio 24 For.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\obj\Debug\Ejercicio 24 For.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\obj\Debug\Ejercicio 24 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 24 For\Ejercicio 24 For\obj\Debug\Ejercicio 24 For.pdb

@@ -1,0 +1,13 @@
+c:\users\usuario\source\repos\Ejercicio 2 Funciones\Ejercicio 2 Funciones\bin\Debug\Ejercicio 2 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 2 Funciones\Ejercicio 2 Funciones\bin\Debug\Ejercicio 2 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 2 Funciones\Ejercicio 2 Funciones\bin\Debug\Ejercicio 2 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.pdb
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\bin\Debug\Ejercicio 2 Funciones.exe.config
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\bin\Debug\Ejercicio 2 Funciones.exe
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\bin\Debug\Ejercicio 2 Funciones.pdb
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.exe
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 2 Funciones\Ejercicio 2 Funciones\obj\Debug\Ejercicio 2 Funciones.pdb

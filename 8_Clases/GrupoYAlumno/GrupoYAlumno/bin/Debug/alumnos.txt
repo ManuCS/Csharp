@@ -1,0 +1,14 @@
+Numero de alumnos: 3
+
+Nombre: pepe
+Edad: 17
+Calificacion: 5,5
+--------------------------------------
+Nombre: asde
+Edad: 18
+Calificacion: 7,5
+--------------------------------------
+Nombre: pedgpe
+Edad: 17
+Calificacion: 9,5
+--------------------------------------

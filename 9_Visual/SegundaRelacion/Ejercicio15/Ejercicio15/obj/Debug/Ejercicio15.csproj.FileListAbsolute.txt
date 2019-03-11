@@ -1,0 +1,10 @@
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe.config
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.exe
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\bin\Debug\Ejercicio15.pdb
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.Form1.resources
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.Properties.Resources.resources
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.GenerateResource.Cache
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.exe
+C:\Users\Mari Carmen\source\repos\Ejercicio15\Ejercicio15\obj\Debug\Ejercicio15.pdb

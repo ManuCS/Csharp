@@ -1,0 +1,14 @@
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\bin\Debug\Ejercicio 8 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\bin\Debug\Ejercicio 8 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\bin\Debug\Ejercicio 8 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.pdb
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\bin\Debug\Ejercicio 8 Funciones.exe.config
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\bin\Debug\Ejercicio 8 Funciones.exe
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\bin\Debug\Ejercicio 8 Funciones.pdb
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.csprojResolveAssemblyReference.cache
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.csproj.CoreCompileInputs.cache
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.exe
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 8 Funciones\Ejercicio 8 Funciones\obj\Debug\Ejercicio 8 Funciones.pdb

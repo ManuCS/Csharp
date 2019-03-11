@@ -1,0 +1,16 @@
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.exe.config
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.exe
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.pdb
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.exe
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.pdb
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.exe.CodeAnalysisLog.xml
+C:\Users\Mari Carmen\source\repos\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.exe.lastcodeanalysissucceeded
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.exe.config
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.exe
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\bin\Debug\CartaYBaraja.pdb
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.exe
+F:\DAW\Programacion\TercerTrimestre\CartaYBaraja\CartaYBaraja\CartaYBaraja\obj\Debug\CartaYBaraja.pdb

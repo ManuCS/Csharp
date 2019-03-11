@@ -1,0 +1,42 @@
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\bin\Debug\Relacion1.exe.config
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\bin\Debug\Relacion1.exe
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\bin\Debug\Relacion1.pdb
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\obj\Debug\Relacion1.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\obj\Debug\Relacion1.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\obj\Debug\Relacion1.exe
+C:\Users\ManuCS\source\repos\Relacion1\Relacion1\obj\Debug\Relacion1.pdb
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.exe.config
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.exe
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.pdb
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.exe
+C:\Users\ManuCS\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.pdb
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\bin\Debug\Relacion1.exe.config
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\bin\Debug\Relacion1.exe
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\bin\Debug\Relacion1.pdb
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.csprojResolveAssemblyReference.cache
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.csproj.CoreCompileInputs.cache
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.exe
+D:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.pdb
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\bin\Debug\Relacion1.exe.config
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\bin\Debug\Relacion1.exe
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\bin\Debug\Relacion1.pdb
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.exe
+F:\DAW\Programacion\PrimerTrimestre\3Arrays\Relacion 1\Relacion1\Relacion1\obj\Debug\Relacion1.pdb
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.exe.config
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.exe
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.pdb
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.exe
+C:\Users\Mari Carmen\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.pdb
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.exe.config
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.exe
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\bin\Debug\Relacion1.pdb
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.exe
+C:\Users\Usuario\Desktop\Relacion1\Relacion1\obj\Debug\Relacion1.pdb

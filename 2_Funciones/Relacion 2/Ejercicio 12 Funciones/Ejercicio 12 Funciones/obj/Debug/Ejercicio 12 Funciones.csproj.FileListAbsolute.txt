@@ -1,0 +1,7 @@
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\bin\Debug\Ejercicio 12 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\bin\Debug\Ejercicio 12 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\bin\Debug\Ejercicio 12 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\obj\Debug\Ejercicio 12 Funciones.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\obj\Debug\Ejercicio 12 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\obj\Debug\Ejercicio 12 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 12 Funciones\Ejercicio 12 Funciones\obj\Debug\Ejercicio 12 Funciones.pdb

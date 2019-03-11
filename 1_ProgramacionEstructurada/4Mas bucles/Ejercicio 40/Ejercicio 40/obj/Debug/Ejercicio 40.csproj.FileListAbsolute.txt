@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\bin\Debug\Ejercicio 40.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\bin\Debug\Ejercicio 40.exe
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\bin\Debug\Ejercicio 40.pdb
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.exe
+C:\Users\Usuario\source\repos\Ejercicio 40\Ejercicio 40\obj\Debug\Ejercicio 40.pdb

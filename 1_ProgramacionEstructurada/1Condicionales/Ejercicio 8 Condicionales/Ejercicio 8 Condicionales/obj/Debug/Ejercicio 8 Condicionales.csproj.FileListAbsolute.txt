@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\bin\Debug\Ejercicio 8 Condicionales.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\bin\Debug\Ejercicio 8 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\bin\Debug\Ejercicio 8 Condicionales.pdb
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\obj\Debug\Ejercicio 8 Condicionales.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\obj\Debug\Ejercicio 8 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\obj\Debug\Ejercicio 8 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 8 Condicionales\Ejercicio 8 Condicionales\obj\Debug\Ejercicio 8 Condicionales.pdb

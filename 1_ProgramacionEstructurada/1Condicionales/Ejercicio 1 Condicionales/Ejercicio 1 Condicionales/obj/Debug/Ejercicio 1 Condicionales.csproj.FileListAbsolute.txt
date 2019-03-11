@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\bin\Debug\Ejercicio 1 Condicionales.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\bin\Debug\Ejercicio 1 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\bin\Debug\Ejercicio 1 Condicionales.pdb
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\obj\Debug\Ejercicio 1 Condicionales.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\obj\Debug\Ejercicio 1 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\obj\Debug\Ejercicio 1 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 1 Condicionales\Ejercicio 1 Condicionales\obj\Debug\Ejercicio 1 Condicionales.pdb

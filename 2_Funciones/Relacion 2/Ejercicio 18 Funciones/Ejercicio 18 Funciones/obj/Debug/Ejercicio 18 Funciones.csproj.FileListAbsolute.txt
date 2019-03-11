@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\bin\Debug\Ejercicio 18 Funciones.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\bin\Debug\Ejercicio 18 Funciones.exe
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\bin\Debug\Ejercicio 18 Funciones.pdb
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\obj\Debug\Ejercicio 18 Funciones.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\obj\Debug\Ejercicio 18 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\obj\Debug\Ejercicio 18 Funciones.exe
+C:\Users\Usuario\source\repos\Ejercicio 18 Funciones\Ejercicio 18 Funciones\obj\Debug\Ejercicio 18 Funciones.pdb

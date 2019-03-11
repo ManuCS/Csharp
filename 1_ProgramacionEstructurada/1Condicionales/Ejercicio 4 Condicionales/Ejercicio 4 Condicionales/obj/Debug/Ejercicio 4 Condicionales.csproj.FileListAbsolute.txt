@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 4 Condicionales\Ejercicio 4 Condicionales\bin\Debug\Ejercicio 4 Condicionales.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 4 Condicionales\Ejercicio 4 Condicionales\bin\Debug\Ejercicio 4 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 4 Condicionales\Ejercicio 4 Condicionales\bin\Debug\Ejercicio 4 Condicionales.pdb
+C:\Users\Usuario\source\repos\Ejercicio 4 Condicionales\Ejercicio 4 Condicionales\obj\Debug\Ejercicio 4 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 4 Condicionales\Ejercicio 4 Condicionales\obj\Debug\Ejercicio 4 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 4 Condicionales\Ejercicio 4 Condicionales\obj\Debug\Ejercicio 4 Condicionales.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\bin\Debug\5ConversorPulgadas.exe.config
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\bin\Debug\5ConversorPulgadas.exe
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\bin\Debug\5ConversorPulgadas.pdb
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\5ConversorPulgadas.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\_5ConversorPulgadas.Form1.resources
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\_5ConversorPulgadas.Properties.Resources.resources
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\5ConversorPulgadas.csproj.GenerateResource.Cache
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\5ConversorPulgadas.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\5ConversorPulgadas.exe
+C:\Users\Mari Carmen\source\repos\5ConversorPulgadas\5ConversorPulgadas\obj\Debug\5ConversorPulgadas.pdb

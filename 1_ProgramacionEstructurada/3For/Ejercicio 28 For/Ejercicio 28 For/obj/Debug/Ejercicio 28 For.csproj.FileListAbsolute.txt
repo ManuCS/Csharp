@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 28 For\Ejercicio 28 For\bin\Debug\Ejercicio 28 For.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 28 For\Ejercicio 28 For\bin\Debug\Ejercicio 28 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 28 For\Ejercicio 28 For\bin\Debug\Ejercicio 28 For.pdb
+C:\Users\Usuario\source\repos\Ejercicio 28 For\Ejercicio 28 For\obj\Debug\Ejercicio 28 For.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 28 For\Ejercicio 28 For\obj\Debug\Ejercicio 28 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 28 For\Ejercicio 28 For\obj\Debug\Ejercicio 28 For.pdb

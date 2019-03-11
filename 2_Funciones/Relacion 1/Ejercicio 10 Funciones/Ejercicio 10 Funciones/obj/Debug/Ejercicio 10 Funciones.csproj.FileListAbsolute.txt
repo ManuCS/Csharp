@@ -1,0 +1,7 @@
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\bin\Debug\Ejercicio 10 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\bin\Debug\Ejercicio 10 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\bin\Debug\Ejercicio 10 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\obj\Debug\Ejercicio 10 Funciones.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\obj\Debug\Ejercicio 10 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\obj\Debug\Ejercicio 10 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 10 Funciones\Ejercicio 10 Funciones\obj\Debug\Ejercicio 10 Funciones.pdb

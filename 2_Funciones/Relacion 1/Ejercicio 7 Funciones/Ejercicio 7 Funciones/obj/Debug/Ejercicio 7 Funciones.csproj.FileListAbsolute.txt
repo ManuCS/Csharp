@@ -1,0 +1,6 @@
+c:\users\usuario\source\repos\Ejercicio 7 Funciones\Ejercicio 7 Funciones\obj\Debug\Ejercicio 7 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 7 Funciones\Ejercicio 7 Funciones\bin\Debug\Ejercicio 7 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 7 Funciones\Ejercicio 7 Funciones\bin\Debug\Ejercicio 7 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 7 Funciones\Ejercicio 7 Funciones\bin\Debug\Ejercicio 7 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 7 Funciones\Ejercicio 7 Funciones\obj\Debug\Ejercicio 7 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 7 Funciones\Ejercicio 7 Funciones\obj\Debug\Ejercicio 7 Funciones.pdb

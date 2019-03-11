@@ -1,0 +1,14 @@
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\bin\Debug\FicherosTexto.exe.config
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\bin\Debug\FicherosTexto.exe
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\bin\Debug\FicherosTexto.pdb
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.exe
+C:\Users\Mari Carmen\source\repos\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.pdb
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.exe
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\obj\Debug\FicherosTexto.pdb
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\bin\Debug\FicherosTexto.exe.config
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\bin\Debug\FicherosTexto.exe
+F:\DAW\Programacion\SegundoTrimestre\7Ficheros\FicherosTexto\FicherosTexto\bin\Debug\FicherosTexto.pdb

@@ -1,0 +1,7 @@
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\bin\Debug\Ejercicio 7 Condicionales.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\bin\Debug\Ejercicio 7 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\bin\Debug\Ejercicio 7 Condicionales.pdb
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\obj\Debug\Ejercicio 7 Condicionales.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\obj\Debug\Ejercicio 7 Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\obj\Debug\Ejercicio 7 Condicionales.exe
+C:\Users\Usuario\source\repos\Ejercicio 7 Condicionales\Ejercicio 7 Condicionales\obj\Debug\Ejercicio 7 Condicionales.pdb

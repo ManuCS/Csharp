@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\Horas\Horas\bin\Debug\Horas.exe.config
+c:\users\usuario\source\repos\Horas\Horas\bin\Debug\Horas.exe
+c:\users\usuario\source\repos\Horas\Horas\bin\Debug\Horas.pdb
+c:\users\usuario\source\repos\Horas\Horas\obj\Debug\Horas.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\Horas\Horas\obj\Debug\Horas.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Horas\Horas\obj\Debug\Horas.exe
+c:\users\usuario\source\repos\Horas\Horas\obj\Debug\Horas.pdb

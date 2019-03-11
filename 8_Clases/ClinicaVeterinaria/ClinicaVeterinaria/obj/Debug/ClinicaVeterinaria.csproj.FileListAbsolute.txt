@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\ClinicaVeterinaria.exe.config
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\ClinicaVeterinaria.exe
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\bin\Debug\ClinicaVeterinaria.pdb
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\ClinicaVeterinaria.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\ClinicaVeterinaria.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\ClinicaVeterinaria.exe
+c:\users\usuario\source\repos\ClinicaVeterinaria\ClinicaVeterinaria\obj\Debug\ClinicaVeterinaria.pdb

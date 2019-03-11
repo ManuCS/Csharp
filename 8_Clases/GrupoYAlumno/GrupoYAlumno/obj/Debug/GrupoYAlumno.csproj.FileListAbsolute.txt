@@ -1,0 +1,7 @@
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\bin\Debug\GrupoYAlumno.exe.config
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\bin\Debug\GrupoYAlumno.exe
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\bin\Debug\GrupoYAlumno.pdb
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\obj\Debug\GrupoYAlumno.csprojResolveAssemblyReference.cache
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\obj\Debug\GrupoYAlumno.csproj.CoreCompileInputs.cache
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\obj\Debug\GrupoYAlumno.exe
+c:\users\mari carmen\source\repos\GrupoYAlumno\GrupoYAlumno\obj\Debug\GrupoYAlumno.pdb

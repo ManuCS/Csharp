@@ -1,0 +1,14 @@
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\bin\Debug\Fracciones.exe.config
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\bin\Debug\Fracciones.exe
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\bin\Debug\Fracciones.pdb
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.exe
+C:\Users\Mari Carmen\source\repos\Fracciones\Fracciones\obj\Debug\Fracciones.pdb
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\bin\Debug\Fracciones.exe.config
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\bin\Debug\Fracciones.exe
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\bin\Debug\Fracciones.pdb
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\obj\Debug\Fracciones.csprojResolveAssemblyReference.cache
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\obj\Debug\Fracciones.csproj.CoreCompileInputs.cache
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\obj\Debug\Fracciones.exe
+D:\DAW\Programacion\TercerTrimestre\Ejercicios\Fracciones\Fracciones\obj\Debug\Fracciones.pdb

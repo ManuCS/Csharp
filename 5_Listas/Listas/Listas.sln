@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{4BAD6997-E339-449D-B127-182BFC1ECF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAD6997-E339-449D-B127-182BFC1ECF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAD6997-E339-449D-B127-182BFC1ECF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAD6997-E339-449D-B127-182BFC1ECF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAD6997-E339-449D-B127-182BFC1ECF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5B16E34-EFEA-4CF7-B2BC-DD040DC3DA16}
+	EndGlobalSection
+EndGlobal

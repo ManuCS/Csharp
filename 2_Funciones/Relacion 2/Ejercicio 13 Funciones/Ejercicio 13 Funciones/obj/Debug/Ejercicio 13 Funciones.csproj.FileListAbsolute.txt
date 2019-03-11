@@ -1,0 +1,7 @@
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\bin\Debug\Ejercicio 13 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\bin\Debug\Ejercicio 13 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\bin\Debug\Ejercicio 13 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\obj\Debug\Ejercicio 13 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\obj\Debug\Ejercicio 13 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\obj\Debug\Ejercicio 13 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 13 Funciones\Ejercicio 13 Funciones\obj\Debug\Ejercicio 13 Funciones.csprojResolveAssemblyReference.cache

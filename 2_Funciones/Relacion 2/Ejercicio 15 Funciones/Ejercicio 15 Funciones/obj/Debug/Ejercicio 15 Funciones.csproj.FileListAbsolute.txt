@@ -1,0 +1,7 @@
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\bin\Debug\Ejercicio 15 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\bin\Debug\Ejercicio 15 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\bin\Debug\Ejercicio 15 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\obj\Debug\Ejercicio 15 Funciones.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\obj\Debug\Ejercicio 15 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\obj\Debug\Ejercicio 15 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 15 Funciones\Ejercicio 15 Funciones\obj\Debug\Ejercicio 15 Funciones.pdb

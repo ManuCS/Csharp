@@ -1,0 +1,4 @@
+Nombre,Pelo,Raza,Peso,Tamaño,Ojos
+garfield,naranja,siames,gordo,grande,verdes,,,,
+Isidoro,naranja,siames,gordo,grande,negros,,,,
+ConBotas,Naranja,Espadachin,pluma,pequeÃ±o,seductores,,

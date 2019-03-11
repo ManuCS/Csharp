@@ -1,0 +1,6 @@
+C:\Users\ManuCS\source\repos\Ejercicio 14 Funciones\Ejercicio 14 Funciones\bin\Debug\Ejercicio 14 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 14 Funciones\Ejercicio 14 Funciones\bin\Debug\Ejercicio 14 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 14 Funciones\Ejercicio 14 Funciones\bin\Debug\Ejercicio 14 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 14 Funciones\Ejercicio 14 Funciones\obj\Debug\Ejercicio 14 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 14 Funciones\Ejercicio 14 Funciones\obj\Debug\Ejercicio 14 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 14 Funciones\Ejercicio 14 Funciones\obj\Debug\Ejercicio 14 Funciones.pdb

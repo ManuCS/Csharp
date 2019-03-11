@@ -1,0 +1,14 @@
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\bin\Debug\Ejercicio 9 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\bin\Debug\Ejercicio 9 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\bin\Debug\Ejercicio 9 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.pdb
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\bin\Debug\Ejercicio 9 Funciones.exe.config
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\bin\Debug\Ejercicio 9 Funciones.exe
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\bin\Debug\Ejercicio 9 Funciones.pdb
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.csprojResolveAssemblyReference.cache
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.csproj.CoreCompileInputs.cache
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.exe
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 1\Ejercicio 9 Funciones\Ejercicio 9 Funciones\obj\Debug\Ejercicio 9 Funciones.pdb

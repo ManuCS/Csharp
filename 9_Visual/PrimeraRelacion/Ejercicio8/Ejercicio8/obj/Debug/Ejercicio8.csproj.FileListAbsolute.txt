@@ -1,0 +1,10 @@
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Form1.resources
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.Properties.Resources.resources
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.GenerateResource.Cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csproj.CoreCompileInputs.cache
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb
+E:\DAW\Programacion\TercerTrimestre\Visual\Ejercicios\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.csprojResolveAssemblyReference.cache

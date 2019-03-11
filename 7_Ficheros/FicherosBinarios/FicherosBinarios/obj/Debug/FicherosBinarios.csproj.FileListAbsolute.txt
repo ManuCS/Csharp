@@ -1,0 +1,7 @@
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\bin\Debug\FicherosBinarios.exe.config
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\bin\Debug\FicherosBinarios.exe
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\bin\Debug\FicherosBinarios.pdb
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\obj\Debug\FicherosBinarios.csprojResolveAssemblyReference.cache
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\obj\Debug\FicherosBinarios.csproj.CoreCompileInputs.cache
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\obj\Debug\FicherosBinarios.exe
+C:\Users\Mari Carmen\source\repos\FicherosBinarios\FicherosBinarios\obj\Debug\FicherosBinarios.pdb

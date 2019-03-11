@@ -1,0 +1,7 @@
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\bin\Debug\Ejercicio 11 Funciones.exe.config
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\bin\Debug\Ejercicio 11 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\bin\Debug\Ejercicio 11 Funciones.pdb
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\obj\Debug\Ejercicio 11 Funciones.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\obj\Debug\Ejercicio 11 Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\obj\Debug\Ejercicio 11 Funciones.exe
+C:\Users\ManuCS\source\repos\Ejercicio 11 Funciones\Ejercicio 11 Funciones\obj\Debug\Ejercicio 11 Funciones.pdb

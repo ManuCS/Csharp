@@ -1,0 +1,21 @@
+C:\Users\ManuCS\source\repos\Fechas\Fechas\bin\Debug\Fechas.exe.config
+C:\Users\ManuCS\source\repos\Fechas\Fechas\bin\Debug\Fechas.exe
+C:\Users\ManuCS\source\repos\Fechas\Fechas\bin\Debug\Fechas.pdb
+C:\Users\ManuCS\source\repos\Fechas\Fechas\obj\Debug\Fechas.csprojResolveAssemblyReference.cache
+C:\Users\ManuCS\source\repos\Fechas\Fechas\obj\Debug\Fechas.csproj.CoreCompileInputs.cache
+C:\Users\ManuCS\source\repos\Fechas\Fechas\obj\Debug\Fechas.exe
+C:\Users\ManuCS\source\repos\Fechas\Fechas\obj\Debug\Fechas.pdb
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\bin\Debug\Fechas.exe.config
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\bin\Debug\Fechas.exe
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\bin\Debug\Fechas.pdb
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.csprojResolveAssemblyReference.cache
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.csproj.CoreCompileInputs.cache
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.exe
+F:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.pdb
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\bin\Debug\Fechas.exe.config
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\bin\Debug\Fechas.exe
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\bin\Debug\Fechas.pdb
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.csprojResolveAssemblyReference.cache
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.csproj.CoreCompileInputs.cache
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.exe
+D:\DAW\Programacion\Primer Trimestre\2. Funciones\Relacion 3\Fechas\Fechas\obj\Debug\Fechas.pdb

@@ -1,0 +1,6 @@
+Numero de alumnos: 1
+
+Nombre: mam
+Edad: 1
+Calificacion: 2
+--------------------------------------

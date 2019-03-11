@@ -1,0 +1,6 @@
+patata,potato
+mar,sea
+delfin,dolphin
+madre,mother
+novia,girlfriend
+feo,ugly

@@ -1,0 +1,6 @@
+C:\Users\Usuario\source\repos\Ejercicio 30 For\Ejercicio 30 For\bin\Debug\Ejercicio 30 For.exe.config
+C:\Users\Usuario\source\repos\Ejercicio 30 For\Ejercicio 30 For\bin\Debug\Ejercicio 30 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 30 For\Ejercicio 30 For\bin\Debug\Ejercicio 30 For.pdb
+C:\Users\Usuario\source\repos\Ejercicio 30 For\Ejercicio 30 For\obj\Debug\Ejercicio 30 For.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio 30 For\Ejercicio 30 For\obj\Debug\Ejercicio 30 For.exe
+C:\Users\Usuario\source\repos\Ejercicio 30 For\Ejercicio 30 For\obj\Debug\Ejercicio 30 For.pdb

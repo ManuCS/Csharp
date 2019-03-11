@@ -1,0 +1,7 @@
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\bin\Debug\Ejercicio 5 Funciones.exe.config
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\bin\Debug\Ejercicio 5 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\bin\Debug\Ejercicio 5 Funciones.pdb
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\obj\Debug\Ejercicio 5 Funciones.csprojResolveAssemblyReference.cache
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\obj\Debug\Ejercicio 5 Funciones.csproj.CoreCompileInputs.cache
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\obj\Debug\Ejercicio 5 Funciones.exe
+c:\users\usuario\source\repos\Ejercicio 5 Funciones\Ejercicio 5 Funciones\obj\Debug\Ejercicio 5 Funciones.pdb

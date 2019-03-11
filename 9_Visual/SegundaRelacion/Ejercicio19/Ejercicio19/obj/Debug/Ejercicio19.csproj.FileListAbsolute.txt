@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.Form1.resources
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csproj.GenerateResource.Cache
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.exe
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\bin\Debug\Ejercicio19.pdb
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.exe
+C:\Users\Usuario\source\repos\Ejercicio19\Ejercicio19\obj\Debug\Ejercicio19.pdb
